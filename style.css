@@ -63,3 +63,11 @@
     right: 15px;
     cursor: pointer;
 }
+
+
+@media(max-width: 400px){
+    .input-box{
+        max-width: 300px;
+
+    }
+}
